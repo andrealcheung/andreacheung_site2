@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | ANDREA CHEUNG</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a science-driven storyteller, working to change the way people and businesses see the environment, and each other.&lt;/p&gt;
+&lt;p&gt;My passions will always be rooted in science. I first became interested in academic research as an undergraduate working in a plant pathology lab at UC Davis where I investigated the role of viruses in plant-insect interactions.  It was here that I became curious in the intricacies and importance of ecological relationships. This curiosity led me to work in bat conservation, and then to Amazon in Ecuador as a volunteer at a wildlife rescue center, where gained a greater understanding of the diverse ways different communities interact and depend on the environment. Following graduation from UC Davis with a BS in Animal Biology, I became a research associate at UC San Diego identifying drug targets for malaria before I began a master’s program in Environmental Science and Management at the Bren School at UC Santa Barbara.&lt;/p&gt;
+&lt;p&gt;I am currently finishing up the second-year of master&#39;s program and specializing in corporate environmental management. I am passionate about applying my research experience and corporate environmental training to help entrepreneurs, innovators, and companies create a greener and more inclusive economy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
